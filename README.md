@@ -63,3 +63,4 @@
 |요리|문자가 새겨진 밀대|-|터널사제-하이잘|
 |요리|장인의 요리사 모자|-|터널법사-하이잘|
 
+[edit](https://github.com/syspro86/wow-craft/edit/main/README.md)
